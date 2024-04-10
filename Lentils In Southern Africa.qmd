@@ -1,0 +1,273 @@
+---
+title: Lentils for Nutritious, Sustainable, and Resilient Food Systems in southern Africa...<span style="color:blue;">*the journey begins in Malawi*</span>
+author: "H. A. Pswarayi"
+institute: "University of Nottingham"
+format:
+      revealjs:
+            standalone: true
+            embed-resources: true
+            toc: true
+            toc-title: "Outline"
+            toc-depth: 1
+            incremental: true
+            html-math-method: katex
+            echo: false
+            theme: serif
+            multiplex: true
+---
+
+# The Birth of an Idea...[*the MAPS project*]{style="color: blue;"}
+
+::: incremental
+-   From MAPS, Other studies:
+-   [Southern Africa's Food Systems deficient in protein, micro-nutrients]{style="color: blue;"}.
+    -   Malawi, South Africa, Zimbabwe, Zambia, etc
+-   MAPS simulation:
+    -   [lentils, most efficient in supplying these nutrients]{style="color: blue;"}.
+:::
+
+# Why Regional Food Systems are Failing...[*interlocking, cross-disciplinary challenges*]{style="color: blue;"}
+
+-   Government policies
+-   Cropping practices
+-   Climate change
+
+## *Government Policies*
+
+::: incremental
+-   Policies skewing crops produced:
+    -   [establishment of grain marketing boards for maize]{style="color: blue;"}
+    -   reinforced by maize production packages
+    -   [promotion of tobacco to earn foreign currency]{style="color: blue;"}
+    -   through numerous contracting companies offering tobacco crop packages
+:::
+
+## *Cropping Practices.....poor soil husbandry*
+
+::: incremental
+-   [most soils in region have low pH, acidic:]{style="color: blue;"}
+    -   due to continuous fertilizer use,
+    -   without promoting liming to ameliorate the problem,
+-   [Hence:]{style="color: blue;"}
+    -   prevalence of low crop yields,
+    -   and inadequate food production,
+    -   [due to reduced fertilizer efficiency, and Al toxicity.]{style="color: blue;"}
+:::
+
+## *Lack of Rotations in Cropping Systems*
+
+::: incremental
+-   [for millennia, legume-cereal rotations have boosted soil fertility, particularly for resource poor farmers]{style="color: blue;"}
+-   yet, not widely practiced by the resource poor in southern Africa
+    -   partly due to govt policies mentioned above,
+    -   that drive maize and tobacco production
+    -   [and lack of viable alternative cash crops]{style="color: blue;"}
+:::
+
+## *Climate change...*
+
+::: incremental
+-   [Southern Africa, a hot spot of climate change]{style="color: blue;"}
+    -   due to its geographical location.
+-   [Hence:]{style="color: blue;"}
+    -   frequent erratic rains, low rainfall, droughts
+    -   frequent heat waves,
+    -   frequent crop failures...hunger...poverty,
+    -   [widespread nutrient deficiencies.]{style="color: blue;"}
+:::
+
+# A Pulse Solution...[*lentils, key to complex challenges*]{style="color: blue;"}
+
+::: incremental
+-   [a novel crop in southern Africa]{style="color: blue;"}
+-   [a crop of multiple attributes]{style="color: blue;"}
+:::
+
+## Lentil Attribute...*Lentils improve human health*
+
+::: incremental
+-   lentils are [nutritious:]{style="color: blue;"}
+    -   rich in [protein]{style="color: blue;"},
+    -   rich in complex [carbohydrates]{style="color: blue;"},
+    -   rich in minerals: e.g., [K, Mg, Fe, Se, folate, Ca, P, Zn]{style="color: blue;"}
+    -   richest in [fiber]{style="color: blue;"}, which is good for digestion and regulating insulin levels
+:::
+
+## Lentil Attribute...*Lentils improve soil health*
+
+::: incremental
+-   lentils [encourage]{style="color: blue;"} good soil husbandry
+    -   farmers have to add [lime]{style="color: blue;"} to [ameliorate]{style="color: blue;"} soil acidity,
+    -   because lentils are very sensitive to acidic soils
+:::
+
+## Acidic Soils (pH 3.6)...[*severe stunting*]{style="color: blue;"}
+-   ![](PHOTO-2024-02-14-09-47-10_a.jpg)
+
+## Acidic Soils (pH 3.6)...[*susceptible to drought*]{style="color: blue;"}
+
+-   ![](PHOTO-2024-01-30-16-24-41.jpg)
+
+## Lentil Attribute...*Lentils are water efficient*
+
+::: incremental
+-   [lentil crops require minimal rainfall]{style="color: blue;"}
+    -   about 300 - 500 mm, annually
+    -   maize requires about double this
+-   [hence, lentils better adapt to short rainfall seasons due to climate change]{style="color: blue;"}
+-   some lentil varieties are drought and heat tolerant
+    -   [adapt well to the climate change induced frequent droughts]{style="color: blue;"}
+:::
+
+## Lentil Attribute...*Lentils reduce domestic energy consumption*
+
+::: incremental
+-   [lentils cook in 10-30 minutes]{style="color: blue;"},
+    -   which saves energy, reducing deforestation,
+-   [Firewood, a primary source of domestic energy in southern Africa]{style="color: blue;"}
+    -   due to low generation capacity of electricity
+    -   and a large, and poor rural population
+-   Hence, [the widespread deforestation, landscape degradation, soil erosion, and siltation of water systems and reservoirs]{style="color: blue;"} in the region
+:::
+
+## Lentil Attribute...*Lentils improve animal health*
+
+::: incremental
+-   lentil straw is better than cereal straw
+    -   because is more [palatable]{style="color: blue;"},
+    -   because is higher in [digestibility]{style="color: blue;"},
+    -   and higher in nutrients: [protein, Ca, and P]{style="color: blue;"}
+-   [there are forage lentil lines that produce high biomass yields]{style="color: blue;"}
+:::
+
+## Lentil Attributes...*Lentils, a profitable cash crop*
+
+::: incremental
+-   [Lentils have a billion pound (£) international market]{style="color: blue;"}
+    -   major consumers in south Asia
+    -   where lentils are integral to daily diets
+-   [Canada, the world's largest producer, exporter]{style="color: blue;"}
+    -   produced mainly by large prairie farmers
+-   [India, the world's largest importer, consumer, and second largest producer]{style="color: blue;"}
+    -   produced mainly by small holder farmers
+:::
+
+# Introducing lentils in Southern Africa...[*a cross-disciplinary approach*]{style="color: blue;"}
+
+## A Food Systems Approach...
+
+::: incremental
+-   [Cross-disciplinary studies:]{style="color: blue;"}
+    -   production, consumption, marketing, storage.
+-   [Production:]{style="color: blue;"}
+    -   develop varieties, learn agronomy
+-   [Consumption:]{style="color: blue;"}
+    -   innovate lentil dishes for local palates
+-   [Marketing:]{style="color: blue;"}
+    -   develop local and international markets
+-   [Storage:]{style="color: blue;"} ensuring product quality
+:::
+
+## The Multiple Disciplines...
+
+::: incremental
+- [Plant breeders, agronomists, soil scientists,]{style="color: blue;"}  
+- [nutritionists, public health, extensionists,]{style="color: blue;"}
+- [Post-harvest scientists, plant protection,]{style="color: blue;"}
+- [Sociologists, Statisticians, agricultural engineers,]{style="color: blue;"}
+- [Economists, marketing, Trade,]{style="color: blue;"}
+- [Farmers, households, NGOs, policy makers.]{style="color: blue;"}
+:::
+
+# Project status...[*the journey begins in Malawi*]{style="color: blue;"}
+
+-   trials in 3 environments,
+-   that differ in altitude and rainfall regimes.
+    - [identifying future breeding materials,]{style="color: blue;"}
+    - [identifying suitable environments,]{style="color: blue;"}
+    - [and learning lentil agronomy]{style="color: blue;"}
+
+## Identifying future breeding materials
+
+::: incremental
+-   [Evaluating 570 accessions from ICARDA, on 3 sites:]{style="color: blue;"}
+-   Traits of interest:
+    -   [drought tolerance]{style="color: blue;"}
+    -   [heat resistance]{style="color: blue;"}
+    -   [high yield]{style="color: blue;"}
+    -   [disease and pest resistance]{style="color: blue;"}
+    -   [early maturity]{style="color: blue;"}
+:::
+
+## Trials...[*planting*]{style="color: blue;"}
+
+- ![](planting.jpg)
+
+## Trials...[*germination*]{style="color: blue;"}
+
+- ![](IMG-20240212-WA0011.jpg)
+
+## Trials...[*happy lentils*]{style="color: blue;"}
+
+- ![](IMG-20240212-WA0010.jpg)
+
+## Trials...[*happy lentils*]{style="color: blue;"}
+
+- ![](IMG_8088.jpg)
+
+## Trials...[*happy lentils*]{style="color: blue;"}
+
+- ![](IMG_8085.jpg)
+
+## Trials...[*we have seed for the future!*]{style="color: blue;"}
+
+- ![](IMG-20240322-WA0001.jpg)
+
+## Engaging Stakeholders...[*our partners*]{style="color: blue;"}
+
+::: incremental
+-   First stakeholders meeting held in February, 2024:
+-   [with government research scientists, and others:]{style="color: blue;"}
+    -   plant breeders, soil scientists, agronomists
+    -   trade officials, nutritionists
+-   [and academia:]{style="color: blue;"}
+    -   plant breeders, agronomists, nutritionists
+-   [They are the future owners of the project]{style="color: blue;"}
+:::
+
+## Planning with Stakeholders
+
+- ![](IMG_7774.jpg)
+
+## Stakholders' Workshop...[*very first!*]{style="color: blue;"}
+
+- ![](IMG_7867.jpg)
+
+## The Stakholders
+
+- ![](PHOTO-2024-02-20-09-51-06.jpg)
+
+# The Future...
+
+::: incremental
+-   [Immediate:]{style="color: blue;"}
+    -   evaluating accessions, multiplying breeding lines and agronomy studies
+-   [Medium:]{style="color: blue;"}
+    -   innovating and promoting lentil dishes
+    -   lentil breeding, promotion, agronomy studies
+-   [Long term:]{style="color: blue;"}
+    -   promoting lentils into the sub region
+    -   that is whole of southern Africa
+:::
+
+## A Long journey...[*of a thousand partners, publications*]{style="color: blue;"}
+
+::: incremental
+-   [*Zikomo kwambili*, *Terima kasih*]{style="color: chocolate;"}
+-   [*Siyabonga*, *Asante*]{style="color: orange;"}
+-   [*Mazviita*, *Grazie*, *Obrigado*]{style="color: green;"}
+-   [*Twatotela*, *Tak*, *Xiexie*]{style="color: violet;"}
+-   [*Thank you*, *Dhanyavaad*]{style="color: brown;"}
+-   [*Gracias*, *Danke*, *Спасибо*]{style="color: black;"}
+-   [*Diolch*, *Merci*, *Arigato*]{style="color: blue;"}
+:::
