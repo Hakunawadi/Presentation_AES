@@ -269,5 +269,5 @@ format:
 -   [*Twatotela*, *Tak*, *Xiexie*]{style="color: violet;"}
 -   [*Thank you*, *Dhanyavaad*]{style="color: brown;"}
 -   [*Gracias*, *Danke*, *Спасибо*]{style="color: black;"}
--   [*Diolch*, *Merci*, *Arigato*]{style="color: blue;"}
+-   [*Diolch*, *Merci*, *Arigato*.]{style="color: blue;"}
 :::
