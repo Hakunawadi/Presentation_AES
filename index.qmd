@@ -196,7 +196,7 @@ format:
 # Project status...
 - [The journey began in Malawi, in 2023/4 cropping season]{style="color: blue;"} 
 - with stakeholder engagement
-- [and  3 trials, in 3 environments,]{style="color: blue;"}
+- [and  3 pilot trials, in 3 environments,]{style="color: blue;"}
     - to identify future breeding materials,
     - to identify suitable environments,
     - to learn lentil agronomy
