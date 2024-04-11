@@ -16,17 +16,19 @@ format:
             multiplex: true
 ---
 
-# The Birth of an Idea...[*the MAPS project*]{style="color: blue;"}
+# The Birth of an Idea...
 
 ::: incremental
--   From MAPS, Other studies:
--   [Southern Africa's Food Systems deficient in protein, micro-nutrients]{style="color: blue;"}.
+-   From MAPS project, 
+-   and Geonutrition studies,
+    -   [Southern Africa's Food Systems deficient in protein, micro-nutrients]{style="color: blue;"}.
     -   Malawi, South Africa, Zimbabwe, Zambia, etc
--   MAPS simulation:
-    -   [lentils, most efficient in supplying the deficient nutrients]{style="color: blue;"}.
+-   From MAPS simulation:
+    -   [lentils, most efficient for supplying the nutrients]{style="color: blue;"}
+    - because cheapest to grow and buy
 :::
 
-# Why Nutrient Deficiency...[*interlocking challenges*]{style="color: blue;"}
+# Causes of Regional Nutrient Deficiency...[*interlocking challenges*]{style="color: blue;"}
    -   Government policies
    -   Cropping practices
    -   Climate change
@@ -45,7 +47,7 @@ format:
 ## Cropping Practices.....
 
 ::: incremental
--   [Neglecting soil pH problems:]{style="color: blue;"}
+-   [Neglecting soil pH problems...]{style="color: blue;"}
 -   yet, most soils in region have low pH, acidic
     -   [due to continuous fertilizer use,]{style="color: blue;"}
     -   without promoting liming to ameliorate the problem,
@@ -58,9 +60,9 @@ format:
 ## Cropping Practices...
 
 ::: incremental
-- [No meaningful crop rotation practices by small holders:]{style="color: blue;"}
+- [No meaningful crop rotation practices by small holders...]{style="color: blue;"}
 -   yet, legume-cereal rotations have boosted soil fertility for millenia
--   [The lack of rotation practices driven by:]{style="color: blue;"}
+-   [The lack of rotation practices is driven by...]{style="color: blue;"}
     -   govt policies encouraging maize and tobacco production
     -   [lack of viable alternative cash crops]{style="color: blue;"}
     -  and small land holdings due to population pressure
@@ -86,6 +88,7 @@ format:
   - animal protein, un-affordable
   - [plant proteins, not cultural]{style="color: blue;"}
 - southern Africa consumes the least pulses in Africa
+  - [there is no active promotion for pulse consumption]{style="color: blue;"}
 ::: 
 
 # One Stop Solution...
