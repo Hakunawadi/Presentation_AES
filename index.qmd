@@ -262,9 +262,13 @@ format:
 # The Future...
 
 ::: incremental
--   [Immediate:]{style="color: blue;"} evaluating accessions, multiplying lines, agronomy,
--   [Medium:]{style="color: blue;"} innovating, promoting lentil dishes and cropping, breeding/evaluation, agronomy studies
--   [Long term:]{style="color: blue;"} promoting lentils into southern Africa, breeding/evaluations, agronomy studies, [sociology studies:]{style="color: blue;"} barriers to change, [economic studies:]{style="color: blue;"} lentils and farmers' poverty, [soil studies:]{style="color: blue;"} lentils and soil fertility, [nutrition studies:]{style="color: blue;"} lentils and population health,
+-   [Immediate:]{style="color: blue;"} evaluate, multiply lines, agronomy,
+-   [Medium:]{style="color: blue;"} innovate, promote lentil dishes, crops, evaluate, agronomy
+-   [Long term:]{style="color: blue;"} promote culture of rotations and lentil diets,
+   - [sociology studies:]{style="color: blue;"} barriers to change, 
+   - [economic studies:]{style="color: blue;"} lentils and farmers' economy,  
+   - [soil studies:]{style="color: blue;"} lentils and soil fertility, 
+   - [nutrition studies:]{style="color: blue;"} lentils and population health.
 :::
 
 ## A Long journey...[*of a thousand partners, publications*]{style="color: blue;"}
