@@ -213,7 +213,7 @@ format:
     - to learn lentil agronomy
 
 
-## Identifying future breeding materials....
+## Identifying future breeding materials...
 
 ::: incremental
 -   [Evaluating 570 accessions from ICARDA:]{style="color: blue;"}
