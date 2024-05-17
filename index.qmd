@@ -94,7 +94,8 @@ format:
 # One Stop Solution...
 
 ::: incremental
--   [introducing lentils, a crop of multiple attributes]{style="color: blue;"}
+-   [lentils are a strategic crop]{style="color: blue;"}
+-   because of multiple attributes
 -   that will unlock the intertwined, complex food system challenges
 :::
 
@@ -151,6 +152,16 @@ format:
     -   higher in digestibility,
     -   nutrients: protein, Ca, and P,
     - [and is better than cereal stover.]{style="color: blue;"}
+:::
+
+## Lentils and gender
+::: incremental
+
+:::
+
+## Lentils and intercropping
+::: incremental
+
 :::
 
 ## Lentils, a profitable cash crop...
