@@ -16,31 +16,32 @@ format:
             multiplex: true
 ---
 
-# The Birth of an Idea...
 
-::: incremental
--   From MAPS project, 
+
+# The Birth of an Idea...
+:::: columns
+::: {.column width="60%" .r-fit-text}
+
+-   From MAPS project,
 -   and Geonutrition studies,
     -   [Southern Africa's Food Systems deficient in protein, micro-nutrients]{style="color: blue;"}.
     -   Malawi, South Africa, Zimbabwe, Zambia, etc
 -   From MAPS simulation:
     -   [lentils, most efficient for supplying the nutrients]{style="color: blue;"}
-    - because cheapest to grow and buy
+    -   because cheapest to grow and buy
 :::
 
-# Southern Africa...
-::: incremental
-
-- ![](Location-map-of-Southern-Africa-Source-Authors.png)
-
-::: 
-
+::: {.column width="40%"}
+![](Countries-of-Southern-African-sub-region.png){height="500"}
+:::
+::::
 
 # Causes of Regional Nutrient Deficiency...[*interlocking challenges*]{style="color: blue;"}
-   -   Government policies
-   -   Cropping practices
-   -   Climate change
-   -   Diets and culture
+
+-   Government policies
+-   Cropping practices
+-   Climate change
+-   Diets and culture
 
 ## Government Policies...
 
@@ -68,12 +69,12 @@ format:
 ## Cropping Practices...
 
 ::: incremental
-- [No meaningful crop rotation practices by small holders...]{style="color: blue;"}
+-   [No meaningful crop rotation practices by small holders...]{style="color: blue;"}
 -   yet, legume-cereal rotations have boosted soil fertility for millenia
 -   [The lack of rotation practices is driven by...]{style="color: blue;"}
     -   govt policies encouraging maize and tobacco production
     -   [lack of viable alternative cash crops]{style="color: blue;"}
-    -  and small land holdings due to population pressure
+    -   and small land holdings due to population pressure
 :::
 
 ## Climate change...
@@ -88,16 +89,16 @@ format:
 :::
 
 ## Diets and Culture...
-::: incremental
 
-- [Regional diets are carbohydrate heavy]{style="color: blue;"}
-  - maize based
-- [with limited protein intake]{style="color: blue;"}
-  - animal protein, un-affordable
-  - [plant proteins, not cultural]{style="color: blue;"}
-- southern Africa consumes the least pulses in Africa
-  - [there is no active promotion for pulse consumption]{style="color: blue;"}
-::: 
+::: incremental
+-   [Regional diets are carbohydrate heavy]{style="color: blue;"}
+    -   maize based
+-   [with limited protein intake]{style="color: blue;"}
+    -   animal protein, un-affordable
+    -   [plant proteins, not cultural]{style="color: blue;"}
+-   southern Africa consumes the least pulses in Africa
+    -   [there is no active promotion for pulse consumption]{style="color: blue;"}
+:::
 
 # One Stop Solution...
 
@@ -126,6 +127,7 @@ format:
 :::
 
 ## Acidic Soils (pH 3.6)...[*severe stunting*]{style="color: blue;"}
+
 -   ![](PHOTO-2024-02-14-09-47-10_a.jpg)
 
 ## Acidic Soils (pH 3.6)...[*susceptible to drought*]{style="color: blue;"}
@@ -159,31 +161,31 @@ format:
     -   more palatable,
     -   higher in digestibility,
     -   nutrients: protein, Ca, and P,
-    - [and is better than cereal stover.]{style="color: blue;"}
+    -   [and is better than cereal stover.]{style="color: blue;"}
 :::
 
 ## Lentils and gender...
-::: incremental
-- [lentils require minimum inputs]{style="color: blue;"}
-  - ideal for poor female headed households
-- [lentils are less complicated grow]{style="color: blue;"}
-  - therefore, ideal for illiterate women/widowed households
-- [lentils cook quickly]{style="color: blue;"}
-  - therefore less firewood collection
-  - which affords women rest time
-  - and time with children
 
+::: incremental
+-   [lentils require minimum inputs]{style="color: blue;"}
+    -   ideal for poor female headed households
+-   [lentils are less complicated grow]{style="color: blue;"}
+    -   therefore, ideal for illiterate women/widowed households
+-   [lentils cook quickly]{style="color: blue;"}
+    -   therefore less firewood collection
+    -   which affords women rest time
+    -   and time with children
 :::
 
 ## Lentils and intercropping...
-::: incremental
-- [lentils can be inter cropped with cereals]{style="color: blue;"}
-  - raising land productivity
-  - especially for small land holdings
-- [lentil inter crops benefit cereals]{style="color: blue;"}
-  - because lentils fix nitrogen
-  - which will be utilized by the cereals
 
+::: incremental
+-   [lentils can be inter cropped with cereals]{style="color: blue;"}
+    -   raising land productivity
+    -   especially for small land holdings
+-   [lentil inter crops benefit cereals]{style="color: blue;"}
+    -   because lentils fix nitrogen
+    -   which will be utilized by the cereals
 :::
 
 ## Lentils, a profitable cash crop...
@@ -194,13 +196,13 @@ format:
     -   where lentils are integral to daily diets
 -   [Canada, the largest producer, and exporter]{style="color: blue;"}
     -   mainly by large-scale prairie farmers
-- [India, the second largest producer]{style="color: blue;"}
-    - mainly by small-holder farmers
+-   [India, the second largest producer]{style="color: blue;"}
+    -   mainly by small-holder farmers
 :::
 
 # Introducing lentils into Southern Africa...
 
-- [A holistic approach]{style="color: blue;"}
+-   [A holistic approach]{style="color: blue;"}
 
 ## A Food Systems Approach...
 
@@ -209,7 +211,7 @@ format:
 -   Production:
     -   [developing/evaluating varieties, learning agronomy]{style="color: blue;"}
 -   Consumption:
-    -  [innovating and promoting lentil dishes]{style="color: blue;"}
+    -   [innovating and promoting lentil dishes]{style="color: blue;"}
 -   Marketing:
     -   [developing local and international markets]{style="color: blue;"}
 -   Storage: ensuring product quality
@@ -218,22 +220,22 @@ format:
 ## The Multiple Disciplines...
 
 ::: incremental
-- [Plant breeders, agronomists, soil scientists,]{style="color: blue;"}  
-- [nutritionists, public health, extensionists,]{style="color: blue;"}
-- [Post-harvest scientists, plant protection,]{style="color: blue;"}
-- [Sociologists, Statisticians, agricultural engineers,]{style="color: blue;"}
-- [Economists, marketing, Trade,]{style="color: blue;"}
-- [Farmers, households, NGOs, policy makers.]{style="color: blue;"}
+-   [Plant breeders, agronomists, soil scientists,]{style="color: blue;"}\
+-   [nutritionists, public health, extensionists,]{style="color: blue;"}
+-   [Post-harvest scientists, plant protection,]{style="color: blue;"}
+-   [Sociologists, Statisticians, agricultural engineers,]{style="color: blue;"}
+-   [Economists, marketing, Trade,]{style="color: blue;"}
+-   [Farmers, households, NGOs, policy makers.]{style="color: blue;"}
 :::
 
 # Project status...
-- [The journey began in Malawi, in 2023/4 cropping season]{style="color: blue;"} 
-- with stakeholder engagement
-- [and  3 pilot trials, in 3 environments,]{style="color: blue;"}
-    - to identify future breeding materials,
-    - to identify suitable environments,
-    - to learn lentil agronomy
 
+-   [The journey began in Malawi, in 2023/4 cropping season]{style="color: blue;"}
+-   with stakeholder engagement
+-   [and 3 pilot trials, in 3 environments,]{style="color: blue;"}
+    -   to identify future breeding materials,
+    -   to identify suitable environments,
+    -   to learn lentil agronomy
 
 ## Identifying future breeding materials...
 
@@ -249,27 +251,27 @@ format:
 
 ## Trials...[*planting*]{style="color: blue;"}
 
-- ![](planting.jpg)
+-   ![](planting.jpg)
 
 ## Trials...[*crop emergence*]{style="color: blue;"}
 
-- ![](IMG-20240212-WA0011.jpg)
+-   ![](IMG-20240212-WA0011.jpg)
 
 ## Trials...[*happy lentils*]{style="color: blue;"}
 
-- ![](IMG-20240212-WA0010.jpg)
+-   ![](IMG-20240212-WA0010.jpg)
 
 ## Trials...[*happy lentils*]{style="color: blue;"}
 
-- ![](IMG_8088.jpg)
+-   ![](IMG_8088.jpg)
 
 ## Trials...[*happy lentils*]{style="color: blue;"}
 
-- ![](IMG_8085.jpg)
+-   ![](IMG_8085.jpg)
 
 ## Trials...[*seed from trial!*]{style="color: blue;"}
 
-- ![](IMG-20240322-WA0001.jpg)
+-   ![](IMG-20240322-WA0001.jpg)
 
 ## Engaging Stakeholders...[*our partners*]{style="color: blue;"}
 
@@ -285,15 +287,15 @@ format:
 
 ## With Stakeholders...[*planning*]{style="color: blue;"}
 
-- ![](IMG_7774.jpg)
+-   ![](IMG_7774.jpg)
 
 ## Stakholders' Workshop...[*very first!*]{style="color: blue;"}
 
-- ![](IMG_7867.jpg)
+-   ![](IMG_7867.jpg)
 
 ## The Stakholders...[*the team*]{style="color: blue;"}
 
-- ![](PHOTO-2024-02-20-09-51-06.jpg)
+-   ![](PHOTO-2024-02-20-09-51-06.jpg)
 
 # The Future...
 
@@ -301,10 +303,10 @@ format:
 -   [Immediate:]{style="color: blue;"} evaluate, multiply lines, agronomy,
 -   [Medium:]{style="color: blue;"} innovate, promote lentil dishes, crops, evaluate, agronomy
 -   [Long term:]{style="color: blue;"} promote culture of rotations and lentil diets,
-   - [sociology studies:]{style="color: blue;"} barriers to change, 
-   - [economic studies:]{style="color: blue;"} lentils and farmers' economy,  
-   - [soil studies:]{style="color: blue;"} lentils and soil fertility, 
-   - [nutrition studies:]{style="color: blue;"} lentils and population health.
+-   [sociology studies:]{style="color: blue;"} barriers to change,
+-   [economic studies:]{style="color: blue;"} lentils and farmers' economy,\
+-   [soil studies:]{style="color: blue;"} lentils and soil fertility,
+-   [nutrition studies:]{style="color: blue;"} lentils and population health.
 :::
 
 ## A Long journey...[*of a thousand partners, publications*]{style="color: blue;"}
