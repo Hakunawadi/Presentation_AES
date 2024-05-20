@@ -28,6 +28,14 @@ format:
     - because cheapest to grow and buy
 :::
 
+# Southern Africa...
+::: incremental
+
+![](Countries-of-Southern-African-sub-region.png)
+
+::: 
+
+
 # Causes of Regional Nutrient Deficiency...[*interlocking challenges*]{style="color: blue;"}
    -   Government policies
    -   Cropping practices
