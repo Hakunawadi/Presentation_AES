@@ -23,11 +23,10 @@ format:
 ::: {.column width="60%" .r-fit-text}
 
 -   From MAPS project,
--   and Geonutrition studies,
+-   and Geonutrition studies:
     -   [Southern Africa's Food Systems deficient in protein, micro-nutrients]{style="color: blue;"}.
-    -   Malawi, South Africa, Zimbabwe, Zambia, etc
 -   From MAPS simulation:
-    -   [lentils, most efficient for supplying the nutrients]{style="color: blue;"}
+    -   [lentils, most efficient for supplying these nutrients]{style="color: blue;"}
     -   because cheapest to grow and buy
 :::
 
