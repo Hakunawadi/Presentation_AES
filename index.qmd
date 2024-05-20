@@ -1,5 +1,5 @@
 ---
-title: Lentils for Nutritious, Sustainable, and Resilient Food Systems in southern Africa...<span style="color:blue;">*the journey begins in Malawi*</span>
+title: Towards Nutritious, Sustainable, Profitable, and Resilient Food Systems in Southern Africa...<span style="color:blue;">*with lentils*</span>
 author: "H. A. Pswarayi"
 institute: "University of Nottingham"
 format:
@@ -154,13 +154,27 @@ format:
     - [and is better than cereal stover.]{style="color: blue;"}
 :::
 
-## Lentils and gender
+## Lentils and gender...
 ::: incremental
+- [lentils require minimum inputs]{style="color: blue;"}
+  - ideal for poor female headed households
+- [lentils are less complicated grow]{style="color: blue;"}
+  - therefore, ideal for illiterate women/widowed households
+- [lentils cook quickly]{style="color: blue;"}
+  - therefore less firewood collection
+  - which affords women rest time
+  - and time with children
 
 :::
 
-## Lentils and intercropping
+## Lentils and intercropping...
 ::: incremental
+- [lentils can be inter cropped with cereals]{style="color: blue;"}
+  - raising land productivity
+  - especially for small land holdings
+- [lentil inter crops benefit cereals]{style="color: blue;"}
+  - because lentils fix nitrogen
+  - which will be utilized by the cereals
 
 :::
 
