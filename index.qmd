@@ -35,7 +35,7 @@ format:
 :::
 ::::
 
-# Causes of Regional Nutrient Deficiency...[*interlocking challenges*]{style="color: blue;"}
+# Drivers of Nutrient Deficiencies...[*interlocking challenges*]{style="color: blue;"}
 
 -   Government policies
 -   Cropping practices
@@ -45,11 +45,10 @@ format:
 ## Government Policies...
 
 ::: incremental
--   Policies that favor non-nutritious crops:
-    -   [maize grain marketing boards maize]{style="color: blue;"}
-    -   maize production packages ensuring staple adequacy
-    -   [promoting tobacco for the export market]{style="color: blue;"}
-    -   tobacco crop packages
+-   [Maize grain marketing boards guaranteeing maize markets]{style="color: blue;"}
+    - to ensure staple adequacy
+-   [Promoting tobacco for the export market]{style="color: blue;"}
+    -   to earn foreign currency
 :::
 
 ## Cropping Practices.....
