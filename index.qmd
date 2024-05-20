@@ -98,12 +98,12 @@ format:
     -   [there is no active promotion for pulse consumption]{style="color: blue;"}
 :::
 
-# One Stop Solution...
+# A Strategic Solution...[*lentils*]{style="color: blue;"}
 
 ::: incremental
--   [lentils are a strategic crop]{style="color: blue;"}
--   because of multiple attributes
--   that will unlock the intertwined, complex food system challenges
+-   [lentils are strategic because:]{style="color: blue;"}
+-   they have multiple attributes,
+-   that can address the many food system challenges.
 :::
 
 ## Lentils improve human health...
@@ -162,28 +162,30 @@ format:
     -   [and is better than cereal stover.]{style="color: blue;"}
 :::
 
-## Lentils and gender...
+## Lentils and the female gender...
 
 ::: incremental
--   [lentils require minimum inputs]{style="color: blue;"}
-    -   ideal for poor female headed households
--   [lentils are less complicated grow]{style="color: blue;"}
-    -   therefore, ideal for illiterate women/widowed households
--   [lentils cook quickly]{style="color: blue;"}
-    -   therefore less firewood collection
-    -   which affords women rest time
-    -   and time with children
+-   [Women have many roles in rural households:]{style="color: blue;"}
+    - labor in the fields
+    - cook, collect firewood and water,
+    - also head households
+-   [Because lentils cook quickly:]{style="color: blue;"}
+    -   they lessen firewood collection
+-   [Lentils require minimum inputs, and less complicated to grow]{style="color: blue;"}
+    -  therefore, ideal for female households 
 :::
 
 ## Lentils and intercropping...
 
 ::: incremental
--   [lentils can be inter cropped with cereals]{style="color: blue;"}
-    -   raising land productivity
-    -   especially for small land holdings
--   [lentil inter crops benefit cereals]{style="color: blue;"}
-    -   because lentils fix nitrogen
-    -   which will be utilized by the cereals
+-   [Population growth drives land fragmentation in the region]{style="color: blue;"}
+    - leading to inadequate holdings for many rural families
+-   [lentils can be inter-cropped with cereals]{style="color: blue;"}
+    -   raising unit land productivity
+-   [lentil inter-crops benefit cereals]{style="color: blue;"}
+    -   because lentils fix nitrogen,
+    -   which improves soil fertility,
+    - and crop productivity.
 :::
 
 ## Lentils, a profitable cash crop...
@@ -198,24 +200,24 @@ format:
     -   mainly by small-holder farmers
 :::
 
-# Introducing lentils into Southern Africa...
+# How we are introducing lentils into Southern Africa...
 
--   [A holistic approach]{style="color: blue;"}
+-   [At the Food Systems Level]{style="color: blue;"}
 
 ## A Food Systems Approach...
 
 ::: incremental
--   [A focus on production, consumption, marketing, storage:]{style="color: blue;"}
+-   [Focusing on production, consumption, marketing, and storage:]{style="color: blue;"}
 -   Production:
     -   [developing/evaluating varieties, learning agronomy]{style="color: blue;"}
 -   Consumption:
     -   [innovating and promoting lentil dishes]{style="color: blue;"}
 -   Marketing:
     -   [developing local and international markets]{style="color: blue;"}
--   Storage: ensuring product quality
+-   Storage: [ensuring product quality]{style="color: blue;"}
 :::
 
-## The Multiple Disciplines...
+## Multiple Disciplines...[*collaborative*]{style="color: blue;"}
 
 ::: incremental
 -   [Plant breeders, agronomists, soil scientists,]{style="color: blue;"}\
@@ -226,26 +228,14 @@ format:
 -   [Farmers, households, NGOs, policy makers.]{style="color: blue;"}
 :::
 
-# Project status...
-
--   [The journey began in Malawi, in 2023/4 cropping season]{style="color: blue;"}
--   with stakeholder engagement
--   [and 3 pilot trials, in 3 environments,]{style="color: blue;"}
+# Project at inception...
+- [Awarded some small University of  Nottingham funding]{style="color: blue;"}
+  - to start the journey in Malawi
+- [We planted 3 pilot trials, in 3 environments,]{style="color: blue;"}
     -   to identify future breeding materials,
     -   to identify suitable environments,
-    -   to learn lentil agronomy
+    -   and to learn lentil agronomy.
 
-## Identifying future breeding materials...
-
-::: incremental
--   [Evaluating 570 accessions from ICARDA:]{style="color: blue;"}
--   For traits of interest:
-    -   [drought tolerance]{style="color: blue;"}
-    -   [heat resistance]{style="color: blue;"}
-    -   [high yield]{style="color: blue;"}
-    -   [disease and pest resistance]{style="color: blue;"}
-    -   [early maturity]{style="color: blue;"}
-:::
 
 ## Trials...[*planting*]{style="color: blue;"}
 
@@ -271,7 +261,7 @@ format:
 
 -   ![](IMG-20240322-WA0001.jpg)
 
-## Engaging Stakeholders...[*our partners*]{style="color: blue;"}
+## Stakeholder Engagement...
 
 ::: incremental
 -   First stakeholders workshop held in February, 2024:
