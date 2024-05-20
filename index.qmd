@@ -31,7 +31,7 @@ format:
 # Southern Africa...
 ::: incremental
 
-![](Countries-of-Southern-African-sub-region.png)
+- ![](Location-map-of-Southern-Africa-Source-Authors.png)
 
 ::: 
 
