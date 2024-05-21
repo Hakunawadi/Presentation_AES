@@ -70,11 +70,12 @@ format:
 :::
 
 ## Acidic Soils (pH 3.6)...[*severe stunting*]{style="color: blue;"}
--   ![](PHOTO-2024-02-14-09-47-10_a.jpg)
+
+![](PHOTO-2024-02-14-09-47-10.jpg)
 
 ## Acidic Soils (pH 3.6)...[*susceptible to drought*]{style="color: blue;"}
 
--   ![](PHOTO-2024-01-30-16-24-41.jpg)
+![](PHOTO-2024-01-30-16-24-41.jpg)
 
 ## Lentils are water efficient...
 
