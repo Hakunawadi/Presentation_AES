@@ -143,61 +143,48 @@ format:
 :::
 
 
-# Project status...
-- [The journey began in Malawi, in 2023/4 cropping season]{style="color: blue;"} 
-- with stakeholder engagement
-- [and  3 pilot trials, in 3 environments,]{style="color: blue;"}
-    - to identify future breeding materials,
-    - to identify suitable environments,
+# Project status...[*inception*]{style="color: blue;"}
+- [Collaborative agreements with 4 countries in place]{style="color: blue;"} 
+  - after co-designing projects together
+- [3 pilot trials planted in Malawi]{style="color: blue;"}
+    - to identify breeding materials, suitable environments,
     - to learn lentil agronomy
-
-
-## Identifying future breeding materials...
-
-::: incremental
--   [Evaluating 570 accessions from ICARDA:]{style="color: blue;"}
--   For traits of interest:
-    -   [drought tolerance]{style="color: blue;"}
-    -   [heat resistance]{style="color: blue;"}
-    -   [high yield]{style="color: blue;"}
-    -   [disease and pest resistance]{style="color: blue;"}
-    -   [early maturity]{style="color: blue;"}
+- [A seed multiplication trial to be planted this week]{style="color: blue;"}
+    - advanced breeding lines from ICARDA
+    - to be tested next summer on on-station sites
 :::
 
-## Trials...[*planting*]{style="color: blue;"}
+## Trials...[*570 ICARDA Accessions*]{style="color: blue;"}
 
-- ![](planting.jpg)
+![](planting.jpg)
 
 ## Trials...[*crop emergence*]{style="color: blue;"}
 
-- ![](IMG-20240212-WA0011.jpg)
+ ![](IMG-20240212-WA0011.jpg)
+
 
 ## Trials...[*happy lentils*]{style="color: blue;"}
 
-- ![](IMG-20240212-WA0010.jpg)
+![](IMG_8088.jpg)
 
 ## Trials...[*happy lentils*]{style="color: blue;"}
 
-- ![](IMG_8088.jpg)
+ ![](IMG_8085.jpg)
 
-## Trials...[*happy lentils*]{style="color: blue;"}
+## Trials...[*we have seed!*]{style="color: blue;"}
 
-- ![](IMG_8085.jpg)
+![](IMG-20240322-WA0001.jpg)
 
-## Trials...[*seed from trial!*]{style="color: blue;"}
-
-- ![](IMG-20240322-WA0001.jpg)
-
-## Engaging Stakeholders...[*our partners*]{style="color: blue;"}
+## Stakeholder Engagement...[*workshops*]{style="color: blue;"}
 
 ::: incremental
--   First stakeholders workshop held in February, 2024:
--   [with government research scientists, and others:]{style="color: blue;"}
-    -   plant breeders, soil scientists, agronomists
-    -   trade officials, nutritionists
--   [and academia:]{style="color: blue;"}
-    -   plant breeders, agronomists, nutritionists
--   [They are the future owners of the project]{style="color: blue;"}
+-   [Nutrition workshop with LUANAR, Malawi]{style="color: blue;"}
+    - putting nutrition at the front
+-   [Malawi Stakeholders workshop, February, 2024:]{style="color: blue;"}
+    - promoting research and promotion, and their policies
+    - with government and academic scientists: 
+    - plant breeders, soil scientists, agronomists
+    - trade officials, nutritionists
 :::
 
 ## With Stakeholders...[*planning*]{style="color: blue;"}
